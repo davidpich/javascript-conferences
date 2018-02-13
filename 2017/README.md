@@ -139,3 +139,5 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [ng-conf](https://www.ng-conf.org/) | April 18-20, 2018 | | Salt Lake City, UT, USA |
 |June||||
 | [ConvergeSE](http://convergese.com/) | June 13-15, 2018 | | Columbia, SC, USA |
+|July||||
+| [AngularCamp](https://angularcamp.tech/) | July 18-20, 2018 | | Barcelona, Catalonia, Spain |
